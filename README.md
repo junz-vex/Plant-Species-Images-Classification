@@ -27,3 +27,16 @@ A. Project Overview This project presents an image classification model develope
 | Boat Lily | Tradescantia spathacea | Waxy sword-shaped leaves, green on top and purple underneath. | <img src="https://github.com/user-attachments/assets/7263c345-c5e1-4a8c-ba61-53c7633b0568" width="120"/> |
 | Begonia sericoneura | Begonia sericoneura Liebmann | Noted for its soft, hairy foliage. | <img src="https://github.com/user-attachments/assets/6fb87a00-e66c-498b-817a-c75c1b6d3f7f" width="120"/> |
 | Balanoy | Ocimum basilicum | Aromatic herb with glossy green leaves and sweet flavor. | <img src="https://github.com/user-attachments/assets/d57f7c70-0494-4d7e-9caa-517c85262ffc" width="120"/> |
+
+
+
+E. Model Testing
+Below are 10 tests performed using images the model had not seen during training. These results demonstrate the model's ability to generalize and accurately identify plant species in various conditions.
+
+Test 1: malabar spinach/alugbati
+Result: Correct
+confidence:100%
+<img width="334" height="463" alt="image" src="https://github.com/user-attachments/assets/45f41458-e41b-4975-b270-d5347771981b" />
+
+
+
