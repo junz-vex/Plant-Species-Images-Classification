@@ -35,8 +35,10 @@ Below are 10 tests performed using images the model had not seen during training
 
 Test 1: malabar spinach/alugbati
 Result: Correct
-confidence:100%
 <img width="334" height="463" alt="image" src="https://github.com/user-attachments/assets/45f41458-e41b-4975-b270-d5347771981b" />
+
+confidence:100%
+
 
 
 
