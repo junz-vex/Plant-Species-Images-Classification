@@ -39,6 +39,12 @@ Result: Correct
 
 confidence:100%
 
+Test 1:sweat_basil/Balanoy
+<img width="490" height="557" alt="image" src="https://github.com/user-attachments/assets/e30884e6-40ed-44df-94f5-7502ec194978" /><img width="503" height="339" alt="image" src="https://github.com/user-attachments/assets/8ea9548e-724a-47dd-a594-8d14505250ee" />
+
+
+Result: Correct
+
 
 
 
