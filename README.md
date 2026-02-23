@@ -30,22 +30,19 @@ A. Project Overview This project presents an image classification model develope
 
 
 
-E. Model Testing
-Below are 10 tests performed using images the model had not seen during training. These results demonstrate the model's ability to generalize and accurately identify plant species in various conditions.
+## 🧪 E. Model Testing
 
-Test 1: malabar spinach/alugbati
-Result: Correct
-<img width="334" height="463" alt="image" src="https://github.com/user-attachments/assets/45f41458-e41b-4975-b270-d5347771981b" />
+Below are 10 tests performed using images the model had not seen during training. These results demonstrate the model's ability to generalize and accurately identify plant species under various conditions.
 
-confidence:100%
-
-Test 1:sweat_basil/Balanoy
-<img width="490" height="557" alt="image" src="https://github.com/user-attachments/assets/e30884e6-40ed-44df-94f5-7502ec194978" />
-<img width="503" height="339" alt="image" src="https://github.com/user-attachments/assets/8ea9548e-724a-47dd-a594-8d14505250ee" />
-
-
-Result: Correct
-
-
-
-
+| Test | Plant | Result | Confidence | Image(s) |
+|------|-------|--------|------------|----------|
+| Test 1 | Malabar Spinach / Alugbati | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/45f41458-e41b-4975-b270-d5347771981b" width="120"/> |
+| Test 2 | Sweet Basil / Balanoy | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/e30884e6-40ed-44df-94f5-7502ec194978" width="120"/> <img src="https://github.com/user-attachments/assets/8ea9548e-724a-47dd-a594-8d14505250ee" width="120"/> |
+| Test 3 | Silver Inch Plant | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/b89e4900-dfe0-49f8-8745-ebb51618f7b1" width="120"/> |
+| Test 4 | Makahiya / Shameplant | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/a1db445f-ecaf-4734-8ae0-de855e7dffe1" width="120"/> |
+| Test 5 | Cassava | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/30115f00-2d7e-4094-9d4a-63990464c914" width="120"/> |
+| Test 6 | Rhapis (Lady Palm) | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/53c6ed0c-e5c9-450a-a710-6c2678a2f798" width="120"/> |
+| Test 7 | Asunting / Peacock Flower | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/3ce07c8c-2365-4df1-a6fc-4e5b3bf7385c" width="120"/> |
+| Test 8 | False Shamrock | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/05ecc856-c8a1-414d-8b4c-83e3a9cedc3b" width="120"/> <img src="https://github.com/user-attachments/assets/735884b8-e1c2-4bdb-a133-60e4dadfa23f" width="120"/> |
+| Test 9 | Zig-zag Plant / Devil’s Backbone | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/98f27c79-14fb-4b8a-ab24-0087e772bc48" width="120"/> <img src="https://github.com/user-attachments/assets/c6f47951-e718-4135-9eab-6629e30c3d06" width="120"/> |
+| Test 10 | Gabi / Taro | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/77efb0b6-35d6-4458-8e8c-e5dd8d956e84" width="120"/> <img src="https://github.com/user-attachments/assets/0620f278-a9a4-42e8-b49a-7741fcb4b9b9" width="120"/> |
