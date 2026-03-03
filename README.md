@@ -68,7 +68,7 @@ Here's an enhanced and rearranged version of sections C and D for your GitHub RE
 | **Platform** | Google Teachable Machine |
 
 ### Class Distribution
-The dataset encompasses 20 distinct plant species with approximately 134 images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
+The dataset encompasses 20 distinct plant species with approximately 200-400 images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
 
 ---
 
