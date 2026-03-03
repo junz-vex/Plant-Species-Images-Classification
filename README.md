@@ -55,9 +55,9 @@ Here's an enhanced and rearranged version of sections C and D for your GitHub RE
 ## 📊 C. Dataset and Training Configuration
 
 ### Dataset Distribution
-- **Total Images:** 2,689
+- **Total Images:**  5,120
 - **Number of Classes:** 20 plant species
-- **Images per Class:** ~134 average (distribution varies by species)
+- **Images per Class:** ~200-400 average (distribution varies by species)
 
 ### Training Parameters
 | Parameter | Value |
