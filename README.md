@@ -46,3 +46,27 @@ Below are 10 tests performed using images the model had not seen during training
 | Test 8 | False Shamrock | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/05ecc856-c8a1-414d-8b4c-83e3a9cedc3b" width="120"/> <img src="https://github.com/user-attachments/assets/735884b8-e1c2-4bdb-a133-60e4dadfa23f" width="120"/> |
 | Test 9 | Zig-zag Plant / Devil’s Backbone | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/98f27c79-14fb-4b8a-ab24-0087e772bc48" width="120"/> <img src="https://github.com/user-attachments/assets/c6f47951-e718-4135-9eab-6629e30c3d06" width="120"/> |
 | Test 10 | Gabi / Taro | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/77efb0b6-35d6-4458-8e8c-e5dd8d956e84" width="120"/> <img src="https://github.com/user-attachments/assets/0620f278-a9a4-42e8-b49a-7741fcb4b9b9" width="120"/> |
+
+
+C. Model Training Details
+
+Total Images: 2,689 (Distributed across 20 classes)
+
+Average Images per Class: ~134 images (Note: some classes have more/less than others)
+
+Epochs: 100
+
+Batch Size: 64
+
+Learning Rate: 0.001
+
+D. Model Evaluation
+
+<img width="321" height="297" alt="image" src="https://github.com/user-attachments/assets/025699ee-ee71-4a2e-8716-4a9571b17665" />
+
+<img width="367" height="306" alt="image" src="https://github.com/user-attachments/assets/fe39ab44-003e-4614-a632-d76de1522ba2" />
+
+
+
+
+
