@@ -48,7 +48,7 @@ Below are 10 tests performed using images the model had not seen during training
 | Test 10 | Gabi / Taro | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/77efb0b6-35d6-4458-8e8c-e5dd8d956e84" width="120"/> <img src="https://github.com/user-attachments/assets/0620f278-a9a4-42e8-b49a-7741fcb4b9b9" width="120"/> |
 
 
-C. Model Training Details
+##C. Model Training Details
 
 Total Images: 2,689 (Distributed across 20 classes)
 
@@ -60,7 +60,7 @@ Batch Size: 64
 
 Learning Rate: 0.001
 
-D. Model Evaluation
+##D. Model Evaluation
 
 <img width="321" height="297" alt="image" src="https://github.com/user-attachments/assets/025699ee-ee71-4a2e-8716-4a9571b17665" />
 
