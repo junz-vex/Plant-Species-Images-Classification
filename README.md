@@ -64,7 +64,7 @@ D. Model Evaluation
 
 <img width="321" height="297" alt="image" src="https://github.com/user-attachments/assets/025699ee-ee71-4a2e-8716-4a9571b17665" />
 
-<img width="367" height="306" alt="image" src="https://github.com/user-attachments/assets/fe39ab44-003e-4614-a632-d76de1522ba2" />
+<img width="321" height="297" alt="image" src="https://github.com/user-attachments/assets/fe39ab44-003e-4614-a632-d76de1522ba2" />
 
 
 
