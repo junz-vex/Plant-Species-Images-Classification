@@ -30,7 +30,7 @@ A. Project Overview This project presents an image classification model develope
 
 
 
-## 🧪 E. Model Testing
+## 🧪 C. Model Testing
 
 Below are 10 tests performed using images the model had not seen during training. These results demonstrate the model's ability to generalize and accurately identify plant species under various conditions.
 
@@ -48,11 +48,11 @@ Below are 10 tests performed using images the model had not seen during training
 | Test 10 | Gabi / Taro | ✅ Correct | 100% | <img src="https://github.com/user-attachments/assets/77efb0b6-35d6-4458-8e8c-e5dd8d956e84" width="120"/> <img src="https://github.com/user-attachments/assets/0620f278-a9a4-42e8-b49a-7741fcb4b9b9" width="120"/> |
 
 
-Here's an enhanced and rearranged version of sections C and D for your GitHub README:
+
 
 ---
 
-## 📊 C. Dataset and Training Configuration
+## 📊 D. Dataset and Training Configuration
 
 ### Dataset Distribution
 - **Total Images:**  5,120
@@ -72,7 +72,7 @@ The dataset encompasses 20 distinct plant species with approximately 200-400 ima
 
 ---
 
-## 📈 D. Model Performance Evaluation
+## 📈 E. Model Performance Evaluation
 
 ### Training Accuracy & Loss Metrics
 
