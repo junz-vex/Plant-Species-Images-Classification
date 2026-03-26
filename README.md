@@ -1,7 +1,7 @@
 # Plant-Species-Images-Classification Laboratory Work 2-A Activity 
 Plant Species Image Classification Using Teachable Machine
 
-A. Project Overview This project presents an image classification model developed to recognize 20 distinct plant species. Utilizing a dataset of 5,120 images, the model was trained to differentiate among various plant morphological features, including structural characteristics, leaf patterns, and color variations. The system is intended to support gardeners and botany students in the efficient identification of common ornamental and wild plant species. 
+A. Project Overview This project presents an image classification model developed to recognize 20 distinct plant species. Utilizing a dataset of 7,552 images, the model was trained to differentiate among various plant morphological features, including structural characteristics, leaf patterns, and color variations. The system is intended to support gardeners and botany students in the efficient identification of common ornamental and wild plant species. 
 
 ## B.🌿 Plant Species Gallery
 
@@ -17,8 +17,8 @@ A. Project Overview This project presents an image classification model develope
 | Plumed Cockscomb | Celosia argentea | Features feathery, flame-like, brightly colored spikes. | <img src="https://github.com/user-attachments/assets/62d41c73-d34a-4a7d-b35c-2d0750b086e3" width="120"/> |
 | Peanut Plant | Arachis hypogaea | Has pinnate leaves with four leaflets and small yellow flowers. | <img src="https://github.com/user-attachments/assets/dce1a298-4634-499d-9293-741d5263dab9" width="120"/> |
 | Kalabo | Plectranthus amboinicus | Recognized for thick, fuzzy, aromatic leaves. | <img src="https://github.com/user-attachments/assets/341527cd-ee94-4539-926c-250533ef3da4" width="120"/> |
-| Asunting | Caesalpinia pulcherrima | Produces year-round red, orange, and yellow flowers. | <img src="https://github.com/user-attachments/assets/e14ccdc6-96bd-416d-ab41-6955c9938166" width="120"/> |
-| Leopard Lily | Drimiopsis maculata | Heart-shaped glossy leaves heavily covered in dark spots. | <img src="https://github.com/user-attachments/assets/35e1a399-2c58-4866-9ed1-05b71626ce95" width="120"/> |
+| peacock flower plant | Caesalpinia pulcherrima | Produces year-round red, orange, and yellow flowers. | <img src="https://github.com/user-attachments/assets/e14ccdc6-96bd-416d-ab41-6955c9938166" width="120"/> |
+| Giant Squill  | Drimiopsis maculata | Heart-shaped glossy leaves heavily covered in dark spots. | <img src="https://github.com/user-attachments/assets/35e1a399-2c58-4866-9ed1-05b71626ce95" width="120"/> |
 | False Shamrock | Oxalis triangularis | Known for its distinctive triangular leaves. | <img src="https://github.com/user-attachments/assets/23b22eb6-b4fb-4bc1-83e9-b09275f487c3" width="120"/> |
 | Zig-zag Plant | Euphorbia tithymaloides | Hardy shrub with distinctive zig-zagging stems and variegated leaves. | <img src="https://github.com/user-attachments/assets/91de3e80-8a69-4c7c-bc72-49435d62b1c5" width="120"/> |
 | Gabi | Colocasia esculenta | Large heart-shaped leaves and edible underground corm. | <img src="https://github.com/user-attachments/assets/d234c974-b9f3-4aff-ab6e-4dee23ae6e87" width="120"/> |
