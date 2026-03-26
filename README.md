@@ -86,7 +86,8 @@ The dataset encompasses 20 distinct plant species with approximately 250-650 ima
 ### Confusion Matrix Analysis
 The confusion matrix below illustrates the model's classification performance across all 20 plant species, with strong diagonal dominance indicating accurate predictions.
 
-![Confusion Matrix](https://github.com/user-attachments/assets/025699ee-ee71-4a2e-8716-4a9571b17665)
+<img width="365" height="312" alt="image" src="https://github.com/user-attachments/assets/912528c5-d999-4a2f-b3e0-b87152e8215a" />
+
 
 *Figure 1: Confusion matrix showing classification results across all 20 plant species. Darker diagonal cells indicate higher prediction accuracy.*
 
