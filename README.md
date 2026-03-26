@@ -55,9 +55,9 @@ Below are 10 tests performed using images the model had not seen during training
 ## 📊 D. Dataset and Training Configuration
 
 ### Dataset Distribution
-- **Total Images:**  5,120
+- **Total Images:**  7,552
 - **Number of Classes:** 20 plant species
-- **Images per Class:** ~200-400 average (distribution varies by species)
+- **Images per Class:** ~250-650 average (distribution varies by species)
 
 ### Training Parameters
 | Parameter | Value |
@@ -68,7 +68,7 @@ Below are 10 tests performed using images the model had not seen during training
 | **Platform** | Google Teachable Machine |
 
 ### Class Distribution
-The dataset encompasses 20 distinct plant species with approximately 200-400 images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
+The dataset encompasses 20 distinct plant species with approximately 250-650 images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
 
 ---
 
