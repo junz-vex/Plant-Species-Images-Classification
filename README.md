@@ -1,7 +1,7 @@
 # Plant-Species-Images-Classification Laboratory Work 2-A Activity 
 Plant Species Image Classification Using Teachable Machine
 
-A. Project Overview This project presents an image classification model developed to recognize 20 distinct plant species. Utilizing a dataset of 7,552 images, the model was trained to differentiate among various plant morphological features, including structural characteristics, leaf patterns, and color variations. The system is intended to support gardeners and botany students in the efficient identification of common ornamental and wild plant species. 
+A. Project Overview This project presents an image classification model developed to recognize 20 distinct plant species. Utilizing a dataset of 5000 images, the model was trained to differentiate among various plant morphological features, including structural characteristics, leaf patterns, and color variations. The system is intended to support gardeners and botany students in the efficient identification of common ornamental and wild plant species. 
 
 ## B.🌿 Plant Species Gallery
 
@@ -55,9 +55,9 @@ Below are 10 tests performed using images the model had not seen during training
 ## 📊 D. Dataset and Training Configuration
 
 ### Dataset Distribution
-- **Total Images:**  7,552
+- **Total Images:**  5,000
 - **Number of Classes:** 20 plant species
-- **Images per Class:** ~250-650 average (distribution varies by species)
+- **Images per Class:** ~250 images per class (distribution varies by species)
 
 ### Training Parameters
 | Parameter | Value |
@@ -68,7 +68,7 @@ Below are 10 tests performed using images the model had not seen during training
 | **Platform** | Google Teachable Machine |
 
 ### Class Distribution
-The dataset encompasses 20 distinct plant species with approximately 250-650 images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
+The dataset encompasses 20 distinct plant species with approximately 250images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
 
 ---
 
@@ -86,7 +86,7 @@ The dataset encompasses 20 distinct plant species with approximately 250-650 ima
 ### Confusion Matrix Analysis
 The confusion matrix below illustrates the model's classification performance across all 20 plant species, with strong diagonal dominance indicating accurate predictions.
 
-<img width="365" height="312" alt="image" src="https://github.com/user-attachments/assets/912528c5-d999-4a2f-b3e0-b87152e8215a" />
+<img width="378" height="296" alt="image" src="https://github.com/user-attachments/assets/5e5ae9dd-76a3-42d1-bf7d-bc4ab7c8d5f6" />
 
 
 *Figure 1: Confusion matrix showing classification results across all 20 plant species. Darker diagonal cells indicate higher prediction accuracy.*
@@ -94,25 +94,8 @@ The confusion matrix below illustrates the model's classification performance ac
 ### Accuracy & Loss Curves
 The training and validation curves demonstrate consistent learning without significant overfitting, as both accuracy and loss metrics converge smoothly.
 
-![Training History](https://github.com/user-attachments/assets/dbede91b-0561-4d0e-85e2-61ff067cbf96)
+<img width="374" height="291" alt="image" src="https://github.com/user-attachments/assets/4ae69796-0c16-4bcc-9fd1-2293488a3432" />
 
 *Figure 2: Training and validation accuracy (left) and loss (right) over 100 epochs. The close alignment between training and validation curves suggests good generalization.*
-
-### Key Performance Insights
-
-- **High Accuracy:** The model achieves near-perfect classification on test images (see Section E)
-- **Minimal Overfitting:** Training and validation curves track closely throughout training
-- **Fast Convergence:** Model stabilizes around epoch 60 with minimal fluctuation afterward
-- **Confidence Scores:** Most predictions show 100% confidence on unseen test images
-
-### Model Strengths
-- Excellent discrimination between visually similar species (e.g., different leaf patterns)
-- Robust performance across varying lighting conditions and image angles
-- Consistent high-confidence predictions across all 20 classes
-
----
-
-
-
 
 
