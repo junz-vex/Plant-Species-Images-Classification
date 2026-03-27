@@ -67,14 +67,6 @@ The dataset encompasses 20 distinct plant species with approximately 250images p
 
 ## 📈 E. Model Performance Evaluation
 
-### Training Accuracy & Loss Metrics
-
-| Metric | Final Value |
-|--------|-------------|
-| **Training Accuracy** | 98.7% |
-| **Validation Accuracy** | 97.2% |
-| **Training Loss** | 0.041 |
-| **Validation Loss** | 0.083 |
 
 ### Confusion Matrix Analysis
 The confusion matrix below illustrates the model's classification performance across all 20 plant species, with strong diagonal dominance indicating accurate predictions.
