@@ -59,13 +59,6 @@ Below are 10 tests performed using images the model had not seen during training
 - **Number of Classes:** 20 plant species
 - **Images per Class:** ~250 images per class (distribution varies by species)
 
-### Training Parameters
-| Parameter | Value |
-|-----------|-------|
-| **Epochs** | 100 |
-| **Batch Size** | 64 |
-| **Learning Rate** | 0.001 |
-| **Platform** | Google Teachable Machine |
 
 ### Class Distribution
 The dataset encompasses 20 distinct plant species with approximately 250images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
