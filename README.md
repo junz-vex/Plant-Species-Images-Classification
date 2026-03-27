@@ -61,7 +61,7 @@ Below are 10 tests performed using images the model had not seen during training
 
 
 ### Class Distribution
-The dataset encompasses 20 distinct plant species with approximately 250images per class, though some species have slightly more or fewer samples based on availability and morphological diversity requirements.
+The dataset encompasses 20 distinct plant species with 250 images per class.
 
 ---
 
